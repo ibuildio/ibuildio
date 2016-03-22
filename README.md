@@ -59,7 +59,7 @@ Ibuild is beautifully crafted by these people and a bunch of awesome [contributo
 
 [![Adnan M. Sagar](https://s.gravatar.com/avatar/d1fd4130d4265c23ccd72134be67d03a?s=117)](http://websemantics.ca/musbahsagar) |
 :---:|
-[Adnan M. Sagar](http://websemantics.ca/musbahsagar)
+[Adnan M. Sagar](http://websemantics.ca/musbahsagar) |
 
 ## Backers
 Love Ibuild work and community? Help us keep it alive by donating funds to cover project expenses! <br />
