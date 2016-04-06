@@ -5,7 +5,7 @@
 
 ### [Website](http://ibuild.io)&nbsp;&nbsp;&nbsp;[Getting Started](http://ibuild.io/learning)&nbsp;&nbsp;&nbsp;[Submit Issue](contributing.md#issue-submission)
 
-[![image](ibuild-illustration.png)](http://ibuild.io)
+[![image](https://raw.githubusercontent.com/ibuildio/logos/gh-pages/assets/png/original-text-w400@2x.png)](http://ibuild.io)
 
 ## Code of Conduct
 
